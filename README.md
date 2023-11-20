@@ -1,4 +1,8 @@
 Título del Proyecto
+====
+
+[![Test Coverage](https://coveralls.io/repos/github/rafalp/Misago/badge.svg?branch=master)](https://coveralls.io/github/rafalp/Misago?branch=master)
+
 Acá va un párrafo que describa lo que es el proyecto
 
 Comenzando 🚀
